@@ -3,7 +3,7 @@ export interface Product {
   name: string
   description: string
   price: number
-  category: 'cleanser' | 'serum' | 'moisturizer' | 'mask' | 'toner'
+  category: 'cleanser' | 'cream' | 'moisturizer' | 'mask' | 'toner'
   image: string
   ingredients: string[]
   benefits: string[]

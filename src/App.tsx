@@ -203,7 +203,7 @@ function App() {
           <TabsList className="w-full sm:w-auto flex-wrap h-auto">
             <TabsTrigger value="all">All Products</TabsTrigger>
             <TabsTrigger value="cleanser">Cleansers</TabsTrigger>
-            <TabsTrigger value="serum">Serums</TabsTrigger>
+            <TabsTrigger value="cream">Creams</TabsTrigger>
             <TabsTrigger value="moisturizer">Moisturizers</TabsTrigger>
             <TabsTrigger value="mask">Masks</TabsTrigger>
             <TabsTrigger value="toner">Toners</TabsTrigger>
